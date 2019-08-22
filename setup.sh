@@ -15,6 +15,7 @@ rm -rf coverage
 grep -rl "ts-package-boilerplate" . | xargs sed -i "s/ts-package-boilerplate/$1/g"
 
 git init
+git add .
 git commit -m "init commit"
 git config credential.helper store
 
