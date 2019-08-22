@@ -1,14 +1,14 @@
-# @markorusic/[package-name]
+# @markorusic/ts-package-boilerplate
 
-[![npm (scoped)](https://img.shields.io/npm/v/@markorusic/[package-name].svg)](https://www.npmjs.com/package/@markorusic/[package-name])
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@markorusic/[package-name].svg)](https://www.npmjs.com/package/@markorusic/[package-name])
+[![npm (scoped)](https://img.shields.io/npm/v/@markorusic/ts-package-boilerplate.svg)](https://www.npmjs.com/package/@markorusic/ts-package-boilerplate)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@markorusic/ts-package-boilerplate.svg)](https://www.npmjs.com/package/@markorusic/ts-package-boilerplate)
 
 [Description]
 
 ## Install
 
 ```
-$ npm i @markorusic/[package-name]
+$ npm i @markorusic/ts-package-boilerplate
 ```
 
 ## Usage
